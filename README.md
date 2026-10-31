@@ -1,3 +1,6 @@
+<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/6a1f9a46-cd45-4529-8905-740a4d9cb3d9" />
+
+
 # SE-VIRTUAL-CLASSROOM-PLATFORM
 
 # 📚 Virtual Classroom Platform
