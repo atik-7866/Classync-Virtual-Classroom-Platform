@@ -1,5 +1,5 @@
-<img width="1000" height="563" alt="image" src="https://github.com/user-attachments/assets/6a1f9a46-cd45-4529-8905-740a4d9cb3d9" />
 
+<img width="11497" height="6505" alt="diagram" src="https://github.com/user-attachments/assets/fb7ca6f0-c245-4998-a8c4-0ba43a0cbe71" />
 
 # SE-VIRTUAL-CLASSROOM-PLATFORM
 
